@@ -10,7 +10,4 @@ package com.infomancers.collections.yield.asm;
 public class NewMember {
     public String name;
     public String desc;
-    public int index;
-    public int start;
-    public int end;
-}
+    public int index;}
