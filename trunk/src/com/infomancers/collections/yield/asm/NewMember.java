@@ -9,5 +9,6 @@ package com.infomancers.collections.yield.asm;
  */
 public public class NewMember {
     public String name;
-    public String desc;
-    public int index;}
+    publicint index;
+    public TypeDescriptor type;
+}
